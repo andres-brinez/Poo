@@ -24,4 +24,11 @@ Es decir si tenemos un objeto llamado perro y este tiene sus atributos que lo de
 
 La abstracción es un proceso mental mediante el cual se separan las características esenciales de un objeto o concepto, para poder comprenderlo mejor y representarlo de manera simplificada. En otras palabras, se trata de identificar lo más importante y relevante de algo y dejar de lado los detalles menos importantes.Clase y abstaccion
 
+# La modularidad
+
+Es Dividir un sitema y así crear módulos independientes, lo que permite evitar un colapso masivo en nuestro código y mejorar la legibilidad.
+
+Lema de la programación: Divide y vencerás.
+
+<img src="./img/modularidad.png">
 
