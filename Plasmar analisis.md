@@ -1,4 +1,4 @@
-Despues del analicis del problema se debe de plasmar en un diagrama para poder entender el problema y la solución con la orientación a objetos.
+Despues del analisis del problema se debe de plasmar en un diagrama para poder entender el problema y la solución con la orientación a objetos.
 
 ## Diagramas de Modelado
 
