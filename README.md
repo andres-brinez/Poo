@@ -21,3 +21,5 @@
 # ¿Qué resuelve la Programación orientada a objetos?
 
 <img src="./img/que%20resuelve.jpg">
+
+<img src="./img/Poo.png">
