@@ -56,7 +56,17 @@ Este se parece a la asociación en que un elemento dependerá del otro, pero en 
 Con esto decimos que la ClaseA contiene varios elementos de la ClaseB. Estos últimos son comúnmente representados con listas o colecciones de datos.
 
 
-- Composicion
+### Composicion
+
+<img src="./img/composicion.webp">
+
+Este es similar al anterior solo que su relación es totalmente compenetrada de tal modo que conceptualmente una de estas clases no podría vivir si no existiera la otra
+
+La composición es una relación que indica que una clase es parte de otra clase. Se representa con una linea continua y un rombo en el extremo de la linea que apunta a la clase que contiene a la otra.
+
+<img src="./img/composicionEjemplo.webp">
+
+Con esto decimo que la clase A no puede vivir sin la clase B, son vitales las dos
 
 
 
