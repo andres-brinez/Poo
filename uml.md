@@ -30,7 +30,19 @@ cada vez que esté referenciada este tipo de flecha significará que ese element
 
 <img src="./img/asociacionEjemplo.webp">
 
-- Herencia
+Con esto vemos que la ClaseA está asociada y depende de la ClaseB.
+
+### Herencia
+
+<img src="./img/herencia.webp">
+
+Siempre que veamos este tipo de flecha se estará expresando la herencia.
+La dirección de la flecha irá desde el hijo hasta el padre.
+
+<img src="./img/herenciaEjemplo.webp">
+
+Con esto vemos que la ClaseB hereda de la ClaseA
+
 - Agregacion
 - Composicion
 
