@@ -43,7 +43,19 @@ La dirección de la flecha irá desde el hijo hasta el padre.
 
 Con esto vemos que la ClaseB hereda de la ClaseA
 
-- Agregacion
+### Agregacion
+
+<img src="./img/agregacion.webp">
+
+La agregación es una relación que indica que una clase es parte de otra clase. Se representa con una linea continua y un rombo en el extremo de la linea que apunta a la clase que contiene a la otra.
+
+Este se parece a la asociación en que un elemento dependerá del otro, pero en este caso será: Un elemento dependerá de muchos otros. Aquí tomamos como referencia la multiplicidad del elemento. Lo que comúnmente conocerías en Bases de Datos como Relaciones uno a muchos
+
+<img src="./img/agregacionEjemplo.webp">
+
+Con esto decimos que la ClaseA contiene varios elementos de la ClaseB. Estos últimos son comúnmente representados con listas o colecciones de datos.
+
+
 - Composicion
 
 
